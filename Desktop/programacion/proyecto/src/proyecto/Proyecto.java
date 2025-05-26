@@ -13,5 +13,9 @@ public class Proyecto {
     public static void main(String[] args) {
         //holaohla
         System.out.println("hola");
+        while(true){
+            System.out.println("El pepe");
+        }
     }//me cai222333
+    //elpepe
 }
