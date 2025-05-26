@@ -1,0 +1,19 @@
+Asignatura: Matemática
+Evaluación: Prueba Unidad 2
+
+#ITEM
+Tipo: Seleccion
+Pregunta: ¿Cuánto es 2 + 2?
+Opciones: 3;4;5;6
+Respuesta: 4
+
+#ITEM
+Tipo: VF
+Pregunta: El Sol es una estrella.
+Respuesta: V
+
+#ITEM
+Tipo: Seleccion
+Pregunta: ¿Cuál es la capital de Chile?
+Opciones: Valparaíso;Santiago;Rancagua;La Serena
+Respuesta: Santiago
