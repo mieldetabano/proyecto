@@ -3,6 +3,7 @@
  * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Main.java to edit this template
  */
 package proyecto;
+import java.util.Scanner;
 
 /**
  *
@@ -11,10 +12,9 @@ package proyecto;
 public class Proyecto {
 
     public static void main(String[] args) {
-
         System.out.println("hola");
         System.out.println("cHULApi");
-
-    }
-    
+        while (true){
+            System.out.println("Hola");
+        }
 }
